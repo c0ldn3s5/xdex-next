@@ -7,4 +7,4 @@ https://github.com/user-attachments/assets/611d8817-15e0-4963-ae64-75ecdc2b0986
 https://www.patreon.com/posts/xdex-next-v0-1-0-151689879
 
 
-
+If people want a mac os version drop a request in the issues
